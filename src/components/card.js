@@ -1,7 +1,6 @@
 import "./card.css";
-
+import React from "react";
 const Card = ( {userData}) => {
-
 
   return (
     <div >
